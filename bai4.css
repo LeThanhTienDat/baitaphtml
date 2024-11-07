@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+    font-size: 30px;
+    font: bold;
+}
+#divBegin{
+    background-color: pink;
+    font-size: 80px;
+}
+#divBody{
+    background-color:rgb(238, 224, 206);
+}
+#top{
+    color: blue;
+}
+#mid{
+    color: rgb(9, 87, 9);
+}
+#bot{
+    color: rgb(230, 126, 192);
+}

@@ -1,0 +1,22 @@
+#header{
+    font-size: 75px;
+    font: bold;
+    color: red;
+    text-align: center;
+}
+div{
+    text-align: center;
+    font-size: 30px;
+}
+.nameProduct{
+    color: blue;
+    font-size: 50px;
+    font-weight: 900;
+}
+.price{
+    color: red;
+}
+.image{
+    height: 230px;
+    width: auto;
+}

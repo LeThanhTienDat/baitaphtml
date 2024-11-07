@@ -1,0 +1,31 @@
+img{
+    height: 240px;
+    width: 240px;
+    border-radius: 15px;
+}
+#hinhanh{
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+#header{
+    font-weight: 500px;
+    text-align: center;
+    color: blue;
+    border-style: solid;
+    border-color: blue;
+    background-color: rgb(150, 150, 15);
+}
+#footer{
+    display: flex;
+    background-color: red;
+    color: white;
+}
+#leftBlock{
+    width: 50%;
+    text-align: center;
+}
+#rightBlock{
+    width: 50%;
+    text-align: center;
+}
